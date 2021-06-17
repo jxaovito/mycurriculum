@@ -1,11 +1,14 @@
 .esquerda {
-    border: 5px solid rgba(203, 217, 251, 0.685);
+    border: 5px solid rgba(0, 0, 0, 0.685);
 }
 
 .direita {
-    border: 5px solid rgba(213, 224, 251, 0.685);
+    border: 5px solid rgba(0, 0, 0, 0.685);
 }
 
+body {
+    color: whitesmoke;
+}
 .twitter {
     margin-top: 15px;
     margin-left: 15px;
